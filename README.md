@@ -93,11 +93,11 @@ End-to-end ETL automation using AWS services for data transformation and analyti
 ---
 
 ## 🏅 Certifications  
-🎖️ **Oracle Cloud Infrastructure 2025** – Oracle
 🎖️ **Java (Basic)** – HackerRank  
 🎖️ **SQL (Basic & Intermediate)** – HackerRank  
 🎖️ **Azure Masters Certification** – Ingenious Tech  
 🎖️ **DSA with Java** – Apna College  
+🎖️ **Oracle Cloud Infrastructure 2025** – Oracle
 
 ---
 
